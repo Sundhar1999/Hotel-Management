@@ -1,4 +1,6 @@
-Hotel Management System
+#Hotel Management System
+
+
 Welcome to the GitHub repository for our Hotel Management System. This web-based application is designed to simplify the operations of managing a hotel, providing a user-friendly interface for both hotel staff and guests.
 
 Features
